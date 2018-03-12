@@ -1,14 +1,17 @@
 Aprenda - em pouco mais de 1 hora - a desenvolver web service RESTful com NodeJS e Mongodb
 Link - https://www.youtube.com/watch?v=jvNDM5e7TFo
 
- -  Como criar um alias para a URL no Node.
-
-
 Node.js API testável - Playlist
 Link - https://www.youtube.com/playlist?list=PLz_YTBuxtxt74aOA2W8ArqZpsPlxP-JC9
-
 
 Criando web services empresariais com hapi.js
 Link - https://www.youtube.com/watch?v=wik-pzLcRG4
 
-..
+--------------------------------------------------------
+  - Como criar alias no node.js
+  - Falta uma base mais introdutória ao node.
+
+  - Conteúdo claro da pra entender bem o conceito aplicado no Node.
+  - hapi.js Conteúdo bom mas fica um pouco cansativo por se tratar de uma live
+  e o instrutor para algumas vezes para tirar duvida e acaba quebrando o ritmo das explicações.
+  - RESTful video longo, se estivesse quebrado em partes ficaria menos cansativo. 
