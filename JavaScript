@@ -1,2 +1,13 @@
-Angular 4 (e Angular 2)
-Link - https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G
+JavaScript
+
+========== HACKERRANK ==========
+https://www.hackerrank.com/dashboard
+
+========== CODEWARS ==========
+https://www.codewars.com/
+
+========== RUBULAR ==========
+http://rubular.com/
+
+========== CODECADEMY ==========
+https://www.codecademy.com/
