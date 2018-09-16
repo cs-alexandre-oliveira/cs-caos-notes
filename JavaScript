@@ -1,13 +1,39 @@
 JavaScript
 
+========== CODECADEMY ========== In Progress
+https://www.codecademy.com/
+
+========== ALURA NODE CARRER ========== In Progress
+https://cursos.alura.com.br/career/node-js
+
+========== FUN FUN FUNCTION ========== In Progress
+https://www.youtube.com/playlist?list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub
+
+#*************** Next Steps ***************#
+
 ========== HACKERRANK ==========
 https://www.hackerrank.com/dashboard
 
 ========== CODEWARS ==========
 https://www.codewars.com/
 
+========== Ryan McDermott Clean Code JavaScript ==========
+https://github.com/ryanmcdermott/clean-code-javascript
+
+========== Mike Javier Ebooks JavaScript ==========
+https://github.com/mikejavier/books.js
+
+========== Getify You Don't Know JS ==========
+https://github.com/getify/You-Dont-Know-JS
+
+========== BrazilJS Eloquente ==========
+https://github.com/braziljs/eloquente-javascript
+
+========== Eric Douglas ==========
+https://github.com/ericdouglas/traduz-ai/blob/master/javascript/001-como-aprender-js-corretamente.md
+
+
+%############### Useful Sites ###############%
+
 ========== RUBULAR ==========
 http://rubular.com/
-
-========== CODECADEMY ==========
-https://www.codecademy.com/
