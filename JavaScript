@@ -35,5 +35,8 @@ https://github.com/ericdouglas/traduz-ai/blob/master/javascript/001-como-aprende
 
 %############### Useful Sites ###############%
 
+========== Hoisting JavaScript ==========
+http://loopinfinito.com.br/2014/10/29/hoisting-e-escopo-em-javascript/
+
 ========== RUBULAR ==========
 http://rubular.com/
