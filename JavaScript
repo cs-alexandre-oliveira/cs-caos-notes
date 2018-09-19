@@ -4,7 +4,9 @@ JavaScript
 https://www.codecademy.com/
 
 ========== ALURA NODE CARRER ========== In Progress
-https://cursos.alura.com.br/career/node-js
+https://cursos.alura.com.br/career/node-js -- Done
+https://cursos.alura.com.br/course/javascript-programando-na-linguagem-web -- In Progress
+
 
 ========== FUN FUN FUNCTION ========== In Progress
 https://www.youtube.com/playlist?list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub
